@@ -1,6 +1,6 @@
 # Olá, mundo! 🌎
 
-<img align="right" src="https://cdn.discordapp.com/attachments/862668869470126090/1244697840681222194/foto_de_perfil_lindo-removebg-preview.png?ex=66560eb2&is=6654bd32&hm=2693cc776cc7301d3d76c90f99468c595d34714174091a1de07d2679f01ef910&" alt="Minha Foto" width="90" height="100">
+<img align="right" src="https://cdn.discordapp.com/attachments/862668869470126090/1244697840681222194/foto_de_perfil_lindo-removebg-preview.png?ex=66560eb2&is=6654bd32&hm=2693cc776cc7301d3d76c90f99468c595d34714174091a1de07d2679f01ef910&" alt="Minha Foto" width="100" height="90">
 
 Eu sou **Aobeen** 👋, um estudante apaixonado por tecnologia e programação. Estou começando minha jornada no mundo da codificação e estou animado para compartilhar meu progresso e projetos com você!
 
